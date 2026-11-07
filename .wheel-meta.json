@@ -1,0 +1,22 @@
+{
+  "wheel_id": 393,
+  "structure": "umbrella",
+  "slug": "financebrokerwollongong-com-104",
+  "project": "finance-broker-wollongong-common-mistakes-ab19d79cbd0c7deefe8b4",
+  "parent_t1_ref": "financebrokerwollongong-com-151",
+  "node_role": "feeder",
+  "money_target": "financebrokerwollongong.com.au",
+  "primary_kw": "finance broker wollongong common mistakes",
+  "intended_url": "https://aumedia.neocities.org/finance-broker-wollongong-common-mistakes-ab19d79cbd0c7deefe8b4/",
+  "tier": "T2",
+  "writeback_nonce": "0b8426f943429ede",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokerwollongong-com-151/",
+      "anchor": "the finance broker wollongong timeline overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
